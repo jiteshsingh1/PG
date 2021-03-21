@@ -1,0 +1,14 @@
+[
+    {
+        "family": "PT Serif",
+        "fonts": [
+            {
+                "asset": "assets/fonts/PTSerif-Regular.ttf"
+            },
+            {
+                "asset": "assets/fonts/PTSerif-Italic.ttf",
+                "style": "italic"
+            }
+        ]
+    }
+]
